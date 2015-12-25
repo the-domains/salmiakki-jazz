@@ -1,0 +1,28 @@
+name: 'Salmiakki Jazz '
+favicon: null
+layout_spectrum: 0.49094617553055286
+typography_spectrum: 0.025663124630227685
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8397914825472981
+  lightness: 0.3567028781399131
+  saturation: 0.020530020352452993
+  rhythmicContrast: 0.11754897702485323
+purpose: []
